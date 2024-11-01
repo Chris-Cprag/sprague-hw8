@@ -1,0 +1,3 @@
+echo "Building Program"
+g++ BankAccount.cpp bankApp.cpp -o bankApp
+echo "Finished Build"

@@ -1,0 +1,3 @@
+echo "Building File"
+g++ -Wall derek_LED.cpp myApp.cpp -o myApp
+echo "Finished Building"
